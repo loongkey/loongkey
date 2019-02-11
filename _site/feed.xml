@@ -7,7 +7,17 @@
     
       
         <item>
-          <title>博客模板后门</title>
+          <title>PoCBox漏洞测试验证辅助平台</title>
+          <description>PoCBox漏洞测试验证辅助平台</description>
+          <pubDate>2019-02-11T00:00:00+08:00</pubDate>
+          <link>http://localhost:4000/archives/2019-02-11/1</link>
+          <guid isPermaLink="true">http://localhost:4000/archives/2019-02-11/1</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>我为何在博客模板留后门</title>
           <description>博客模板后门</description>
           <pubDate>2019-01-23T00:00:00+08:00</pubDate>
           <link>http://localhost:4000/archives/2019-01-23/1</link>
