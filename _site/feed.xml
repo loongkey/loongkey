@@ -7,6 +7,16 @@
     
       
         <item>
+          <title>浅谈WebSocket跨域劫持漏洞(CSWSH)</title>
+          <description>浅谈WebSocket跨域劫持漏洞(CSWSH)</description>
+          <pubDate>2019-03-20T00:00:00+08:00</pubDate>
+          <link>http://localhost:4000/archives/2019-03-20/1</link>
+          <guid isPermaLink="true">http://localhost:4000/archives/2019-03-20/1</guid>
+        </item>
+      
+    
+      
+        <item>
           <title>记一次移动光猫（GM219-S）安全测试</title>
           <description>记一次移动光猫（GM219-S）安全测试</description>
           <pubDate>2019-03-12T00:00:00+08:00</pubDate>
