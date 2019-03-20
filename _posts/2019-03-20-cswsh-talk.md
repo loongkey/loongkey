@@ -51,11 +51,13 @@ Sec-WebSocket-Key: w4v7O6xFTi36lq3RNcgctw==
 
 2.进一步验证
 
-2.1获取到了一个发送评论的请求
+2.1获取到了一个发送评论的请求 （**使用BurpSuite->Proxy模块->Websockets History查看，这里是对应的 Direction值为Outgoing为发出的请求，Incoming为发出请求对应的响应信息**）
 
 ![test](https://vulkey.oss-cn-hangzhou.aliyuncs.com/CSWSH/1.png)
 
 2.2使用JavaScript创建Websocket请求
+
+**如上图所示Outgoing的内容为“我是帅key的可爱小迷弟”，那么发送的数据就是这个**。
 
 ```html
 <meta charset="utf-8">
