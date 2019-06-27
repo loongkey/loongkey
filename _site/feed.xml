@@ -7,6 +7,36 @@
     
       
         <item>
+          <title>基于BurpSuite快速探测越权-Authz插件</title>
+          <description>基于BurpSuite快速探测越权-Authz插件</description>
+          <pubDate>2019-06-27T00:00:00+08:00</pubDate>
+          <link>http://localhost:4000/archives/2019-06-27/1</link>
+          <guid isPermaLink="true">http://localhost:4000/archives/2019-06-27/1</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>我的护肤之路</title>
+          <description>我的护肤之路</description>
+          <pubDate>2019-04-17T00:00:00+08:00</pubDate>
+          <link>http://localhost:4000/archives/2019-04-17/1</link>
+          <guid isPermaLink="true">http://localhost:4000/archives/2019-04-17/1</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>2019-03随笔</title>
+          <description>2019-03随笔</description>
+          <pubDate>2019-03-31T00:00:00+08:00</pubDate>
+          <link>http://localhost:4000/archives/2019-03-31/1</link>
+          <guid isPermaLink="true">http://localhost:4000/archives/2019-03-31/1</guid>
+        </item>
+      
+    
+      
+        <item>
           <title>浅谈WebSocket跨域劫持漏洞(CSWSH)</title>
           <description>浅谈WebSocket跨域劫持漏洞(CSWSH)</description>
           <pubDate>2019-03-20T00:00:00+08:00</pubDate>
