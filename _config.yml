@@ -2,7 +2,7 @@
 title:              "Chen's Blog"
 description:        "Chen's Blog"
 author_name:        "Vulkey_Chen" # change this to your name
-logo_url:           /loongkey/assets/avatar.jpg
+logo_url:           /assets/avatar.jpg
 
 # Site Settings
 url:                https://bk.sdlfmy.com # main url
